@@ -1,0 +1,1 @@
+g++ test_xml2.cpp -std=c++11 -I ../../

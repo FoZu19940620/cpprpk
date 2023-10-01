@@ -1,0 +1,1 @@
+g++ -std=c++11 test_asio.cpp -I ../../ -I ../../cppdk/ -lpthread

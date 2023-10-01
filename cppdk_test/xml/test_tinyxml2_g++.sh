@@ -1,0 +1,1 @@
+g++ test_tinyxml2.cpp ../../cppdk/xml/detail/tinyxml2.cpp
